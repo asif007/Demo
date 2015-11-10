@@ -10,7 +10,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Here I will add database first process";
+            ViewBag.Message = "Here I will add database first processs";
 
             return View();
         }
